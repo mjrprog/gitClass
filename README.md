@@ -13,3 +13,5 @@
 11 - git remote add origin (repository address)
 12 - git remote origin -v
 13 - git remote show origin
+14 - git push origin master
+15 - git fetch <!-- fetch data from server -->
