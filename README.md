@@ -16,5 +16,4 @@
 14 - git push origin master
 15 - git fetch <!-- fetch data from server -->
 16 - git pull origin master
-
-test
+17 - git clone https://github.com/fireship-io/wavy-curvey-blobby-website.git demo
