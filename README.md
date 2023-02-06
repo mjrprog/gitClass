@@ -17,3 +17,4 @@
 15 - git fetch <!-- fetch data from server -->
 16 - git pull origin master
 17 - git clone https://github.com/fireship-io/wavy-curvey-blobby-website.git demo
+18 - command + . ==> to open project on codeSpace(online vs code) (github webpage)
